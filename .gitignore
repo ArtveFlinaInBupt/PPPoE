@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+build/
+dist/
+
+.idea/
+.vscode/
+
+instance/
+assets/
+
+.DS_Store
